@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Thomas! 👋
 
-<!--
-**wirewrath/wirewrath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring AI Software Engineer
+I am a passionate software engineering student focused on building intelligent systems, optimizing algorithms, and creating web applications with a clear, user-focused design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education & Pathway
+* **AAS in AI Software Engineering** | Maestro College (Expected '28)
+* **BS in Computer Science (Business & AI Pathway)** (Expected '30)
+
+---
+
+### 🛠 Tech Stack & Tools
+* **Languages:** Python, HTML, CSS, JavaScript
+* **Core Concepts:** Binary Search & Sorting Algorithms, Data Structures, OOP
+* **Tools & Platforms:** Git, GitHub, VS Code, JetBrains
+
+---
+
+### 📁 Featured Projects
+* 💻 **[Python Portfolio](#)** – A collection of optimized algorithms, data structure implementations, and problem-solving exercises.
+* 🎁 **[Interactive Anniversary Card](#)** – A customized web application hosted on GitHub Pages showcasing front-end development skills.
+
+---
+
+### 📫 Connect With Me
+* **GitHub:** [@wirewrath](https://github.com/wirewrath)
+
+*“Continuous learning is the minimum requirement for success in any field.”*
