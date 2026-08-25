@@ -12,15 +12,17 @@ I am a passionate software engineering student focused on building intelligent s
 ---
 
 ### 🛠 Tech Stack & Tools
-* **Languages:** Python, HTML, CSS, JavaScript
-* **Core Concepts:** Binary Search & Sorting Algorithms, Data Structures, OOP
-* **Tools & Platforms:** Git, GitHub, VS Code, JetBrains
+* **Languages:** Python, JavaScript, HTML, CSS, TypeScript, SQL
+* **Frameworks & DBs:** Next.js, React, Supabase (PostgreSQL), Tailwind CSS
+* **Core Concepts:** Binary Search & Sorting Algorithms, Data Structures, OOP, Prompt Engineering
+* **Tools & Platforms:** Git, GitHub, VS Code, JetBrains, Vercel, Groq Cloud
 
 ---
 
 ### 📁 Featured Projects
-* 💻 **[Python Portfolio](#)** – A collection of optimized algorithms, data structure implementations, and problem-solving exercises.
-* 🎁 **[Interactive Anniversary Card](#)** – A customized web application hosted on GitHub Pages showcasing front-end development skills.
+* ⚡ **[AI Snippet Vault](https://ai-snippet-vault.vercel.app/)** – An AI-powered developer workspace built to store, automatically organize via Groq LLMs (`llama-3.3-70b-versatile`), and cloud-sync reusable code snippets and prompt templates using Next.js and Supabase.
+* 💻 **[Python Portfolio](https://github.com/wirewrath)** – A collection of optimized algorithms, data structure implementations, and problem-solving exercises.
+* 🎁 **[Interactive Anniversary Card](https://github.com/wirewrath)** – A customized web application hosted on GitHub Pages showcasing front-end development skills.
 
 ---
 
