@@ -6,8 +6,8 @@ I am a passionate software engineering student focused on building intelligent s
 ---
 
 ### 🎓 Education & Pathway
-* **AAS in AI Software Engineering** | Maestro College (Expected '28)
-* **BS in Computer Science (Business & AI Pathway)** (Expected '30)
+* **AAS in AI Software Engineering** | Maestro College (Expected '27)
+* **BS in Computer Science (Business & AI Pathway)** (Expected between '29-'30)
 
 ---
 
